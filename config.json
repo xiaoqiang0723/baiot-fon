@@ -1,4 +1,0 @@
-{
-  "AIOT_BASEURL": "https://webapi.amap.com/maps?v=2.0&key=32fd10c2ab5de9e41aba0cbbed1dca75&plugin=AMap.MarkerClusterer&callback=initAMap",
-  "AIOT_MAP_STYLE": "amap://styles/8b6b7cf80573831400b2a68c69992a53"
-}
